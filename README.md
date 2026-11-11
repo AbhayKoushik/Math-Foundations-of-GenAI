@@ -1,9 +1,11 @@
-# NPTEL — Mathematical Foundations of Generative AI
+# NPTEL - Mathematical Foundations of Generative AI
 
 A notebook collected during my study of the NPTEL course
 [Mathematical Foundations of Generative AI](https://nptel.ac.in/courses/106108004).
 
 ## Notebook
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbhayKoushik/Math-Foundations-of-GenAI/blob/main/NPTEL_Gen_AI_Basics.ipynb)
 
 - [NPTEL_Gen_AI_Basics.ipynb](NPTEL_Gen_AI_Basics.ipynb)
 
